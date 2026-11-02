@@ -1,0 +1,2 @@
+# UiPathAcademy_GenerateYearlyReport_Dispatcher
+UiPath Academy Automation Developer Professional eğitimi kapsamında geliştirilen Generate Yearly Report otomasyonunun Dispatcher aşamasıdır.
